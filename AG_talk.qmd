@@ -1,0 +1,78 @@
+---
+title: "A Template for Alternative Grading"
+author: "Chris Hallstrom"
+date: "August 14, 2025"
+format: 
+  revealjs:
+    theme: simple
+    transition: fade
+    transition-speed: fast
+
+editor: visual
+---
+
+## *Alternative* Grading?
+
+Umbrella term for grading/assessment practices that attempt to improve on *traditional* approaches.
+
+::: aside
+(**Grading for Growth** by Clark and Talbot)
+:::
+
+::: {.incremental}
+-   Clearly defined standards (topics)
+-   Helpful feedback
+-   Marks indicate progress
+-   Reassessment without penalty
+:::
+
+
+## {visibility="hidden"}
+<br>
+Calculus (Hallstrom, 2003)
+
+- homework (points)
+- 3 midterms, final exam (more points)
+- weighted average
+- grades based on 70-80-90-100 scale
+
+
+
+
+## Standards-Based Grading
+
+aka *Mastery* or *Proficiency* grading
+
+
+::: {.incremental}
+- Course content comprised of 15-20 topics (standards)
+- Regular (weekly) quizzes with opportunities to re-assess
+- Advanced homework to support synthesis, communication skills
+- Final might simply one last opportunity for re-assessment (but not always)
+:::
+
+## Weekly quizzes
+
+* Course content comprised of ~15 standards (topics). <br>
+  E.g. "I can use the defintion of the derivative correctly"
+* Weekly quizzes cover 2-3 standards
+* Quizzes marked
+  - *Proficient*
+  - *Needs minor Revisions*
+  - *Not yet proficient*
+
+* Opportunities for re-assessment offered both in- and outside of class
+
+## If SBG is the aspirin, what is the headache?
+
+::: {.incremental}
+- Students that do poorly in first part of the semester or first exam have much better chance to make a comeback.
+
+- Conversations with students no longer about points missed.
+
+- Students report less test anxiety.
+
+:::
+
+
+
